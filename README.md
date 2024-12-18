@@ -153,7 +153,7 @@
 [Тупой скат вк]: https://vk.com/tupoy_skat
 
 <!----------------------------------{ Телеграм }--------------------------------->
-[Катаем задавальник всем курсом]: t.me/joinchat/cUGBaoxrYl44MTdi
+[Катаем задавальник всем курсом]: https://t.me/joinchat/cUGBaoxrYl44MTdi
 [Учебные материалы пмф]: https://t.me/joinchat/u7PRyovIOIc5ZWFi
 [лешка конспектирует]: https://t.me/krssnoval
 

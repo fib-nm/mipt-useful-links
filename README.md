@@ -38,6 +38,8 @@
 
 [bio] - Биология
 
+[MIPT by alexey krasnov] - Диск Вики Ханиной
+
 ## ВК
 
 [ТПФ]
@@ -147,6 +149,7 @@
 [Physics]: https://disk.yandex.ru/d/YdkpvEbcGnxXow
 [chem]: https://disk.yandex.ru/d/wURLXxVDtA8Qjw
 [bio]: https://disk.yandex.ru/d/hSRqRQNkdaqZCg
+[MIPT by alexey krasnov]: https://disk.yandex.com/d/OKF8sL_f8K3oXA
 
 <!----------------------------------{ ВК }--------------------------------->
 [ТПФ]: https://vk.com/t_p_phystech

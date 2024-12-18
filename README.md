@@ -44,7 +44,7 @@
 
 [BOTAY]
 
-[Операция "Раздолбай"]
+[Операция "Раздолбай" вк]
 
 [Deep Learning School]
 
@@ -147,7 +147,7 @@
 <!----------------------------------{ ВК }--------------------------------->
 [ТПФ]: https://vk.com/t_p_phystech
 [BOTAY]: https://vk.com/botay_phystech
-[Операция "Раздолбай"]: https://vk.com/mipt1
+[Операция "Раздолбай" вк]: https://vk.com/mipt1
 [Deep Learning School]: https://vk.com/dlschool_mipt
 [РТ-курсы в МФТИ]: https://vk.com/drec_courses
 [Тупой скат вк]: https://vk.com/tupoy_skat

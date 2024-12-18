@@ -98,6 +98,8 @@
 
 [Лекторий ФОПФ]
 
+[Лекторий ФЭФМ]
+
 [Дистанционные занятия МФТИ]
 
 [Кафедра общей физики МФТИ]
@@ -188,6 +190,7 @@
 [Лекторий ФБМФ]: https://www.youtube.com/@lectoriy_bma/videos
 [Лекторий ФПМИ]: https://www.youtube.com/c/ЛекторийФПМИ
 [Лекторий ФОПФ]: https://www.youtube.com/@dgap_lectorium/videos
+[Лекторий ФЭФМ]: https://www.youtube.com/@prionerofMIPT
 [Дистанционные занятия МФТИ]: https://www.youtube.com/channel/UCEEhbFAvl3fOW5geICQbMcg
 [Кафедра общей физики МФТИ]: https://www.youtube.com/c/КафедраобщейфизикиМФТИ
 [Кафедра высшей математики МФТИ]: https://www.youtube.com/channel/UC_ByV5irnAmCUZEGVZntFmQ

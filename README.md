@@ -20,6 +20,12 @@
 
 [Диск Ани Назарчук]
 
+[MIPT by alexey krasnov] - Диск Вики Ханиной
+
+[Маленький фопфёнок] - Диск Алексея Тюрникова
+
+[Диск Николая Победина]
+
 [Lectures Tex Club]
 
 [Тупой скат] - Последнее изменение в 2018
@@ -37,8 +43,6 @@
 [chem] - Химия
 
 [bio] - Биология
-
-[MIPT by alexey krasnov] - Диск Вики Ханиной
 
 ## ВК
 
@@ -140,6 +144,9 @@
 [Диск Саши Богданова]: https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb
 [Диск Алексея Охрименко]: https://disk.yandex.ru/d/KM9tmEqktez2Bw
 [Диск Ани Назарчук]: https://disk.yandex.ru/d/FkDlbMtLMTE48Q
+[MIPT by alexey krasnov]: https://disk.yandex.com/d/OKF8sL_f8K3oXA
+[Маленький фопфёнок]: https://drive.google.com/drive/folders/1diz0NX0Gt6dtWG5FsSQfotXPS2zhHmPl
+[Диск Николая Победина]: https://drive.google.com/drive/folders/1yzQpcIFcg_iIifawsfPyUIaabgUpr1gN
 [Lectures Tex Club]: https://disk.yandex.ru/d/IDUn8-HtGvIBYA
 [Тупой скат]: https://drive.google.com/drive/folders/0B5U2D1zceCRyZ1FDaWVUUzNWVVE?resourcekey=0-f-2fDHkjeA55Rua0t8noQw
 [М(ФТИ) всякие приколы]: https://drive.google.com/drive/folders/1SYLnCQ_b1udKujWBJ2v8--BDP8LXyjwT
@@ -149,7 +156,6 @@
 [Physics]: https://disk.yandex.ru/d/YdkpvEbcGnxXow
 [chem]: https://disk.yandex.ru/d/wURLXxVDtA8Qjw
 [bio]: https://disk.yandex.ru/d/hSRqRQNkdaqZCg
-[MIPT by alexey krasnov]: https://disk.yandex.com/d/OKF8sL_f8K3oXA
 
 <!----------------------------------{ ВК }--------------------------------->
 [ТПФ]: https://vk.com/t_p_phystech

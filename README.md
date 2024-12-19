@@ -100,6 +100,8 @@
 
 [Лекторий ФЭФМ]
 
+[Лекторий ВШПИ]
+
 [Дистанционные занятия МФТИ]
 
 [Кафедра общей физики МФТИ]
@@ -195,6 +197,7 @@
 [Лекторий ФПМИ]: https://www.youtube.com/c/ЛекторийФПМИ
 [Лекторий ФОПФ]: https://www.youtube.com/@dgap_lectorium/videos
 [Лекторий ФЭФМ]: https://www.youtube.com/@prionerofMIPT
+[Лекторий ВШПИ]: https://www.youtube.com/@hsse_lectures
 [Дистанционные занятия МФТИ]: https://www.youtube.com/channel/UCEEhbFAvl3fOW5geICQbMcg
 [Кафедра общей физики МФТИ]: https://www.youtube.com/c/КафедраобщейфизикиМФТИ
 [Кафедра высшей математики МФТИ]: https://www.youtube.com/channel/UC_ByV5irnAmCUZEGVZntFmQ

@@ -3,7 +3,7 @@
 
 # Список
 
-## Учебные диски
+## Облачные хранилища
 [Диск РТ]
 
 [Диск БМ]
@@ -46,7 +46,11 @@
 
 [студенты]
 
+[books] - Диск с разной литературой
+
 ## ВК
+
+### Учебное
 
 [ТПФ]
 
@@ -64,6 +68,8 @@
 
 [Клуб Теха Лекций]
 
+### Внеучебное
+
 [Физтех.Confessions]
 
 ## Телеграм
@@ -76,31 +82,30 @@
 
 [EK-Конспекты] - Тг-канал с конспектами для ФПМИ
 
-## Tex
+## Github
 ### Лабы
 
-[github.com/BlackSamorez/mipt_lab]
+[BlackSamorez/mipt_lab]
 
-[github.com/GoshaAB29/mipt_lab]
+[GoshaAB29/mipt_lab]
 
-[github.com/Vokerlee/Physical-labs]
+[Vokerlee/Physical-labs]
 
-[github.com/OAMichael/MIPT-labs]
+[OAMichael/MIPT-labs]
 
-[github.com/Nekhaevalex/Labs]
+[Nekhaevalex/Labs]
 
-[github.com/Kiarendil/labs]
+[Kiarendil/labs]
 
 ### Лекции
-[github.com/daniild71r/lectures_tex_club]
 
-## Литература
+[daniild71r/lectures_tex_club]
 
-[books] - Диск с разной литературой
+[YasnoDelo/Obsidian-MIPT]
 
-[Методички по высшей математике]
+### Software
 
-[Учебники по высшей математике]
+[gnu-koryavov] - Утилита командной строки Linux и MacOS, с помощью которой можно получать номер страницы для заданной задачи в Корявнике разных семестров, а также автоматически скачивать нужную версию книги и открывать её на нужной странице.
 
 ## YouTube
 
@@ -129,6 +134,17 @@
 [Папа Лёхи] - Разбор дз по общей физике
 
 ## Сайты
+### Оффициальные
+
+[Методички по высшей математике]
+
+[Учебники по высшей математике]
+
+[Электронная библиотека Физтеха]
+
+[МФТИ-Телеком] - ISP Физтеха
+
+### Неоффициальные
 
 [Операция "Раздолбай"] - Он же "в помощь раздолбаю"
 
@@ -140,9 +156,11 @@
 
 [HPMNS] - Лекции по философии
 
-## Программы
+[Физтех-Печать]
 
-[gnu-koryavov] - Утилита командной строки Linux и MacOS, с помощью которой можно получать номер страницы для заданной задачи в Корявнике разных семестров, а также автоматически скачивать нужную версию книги и открывать её на нужной странице.
+[PrintBox]
+
+[MIPT.Tech] - Стиралки, сушилки
 
 ## Discord
 
@@ -159,7 +177,7 @@
 # Мои контакты
 Связаться со мной можно через вк: https://vk.com/fib_nm.
 
-<!----------------------------------{ учебные диски }--------------------------------->
+<!----------------------------------{ Облачные хранилища }--------------------------------->
 [Диск РТ]: https://disk.yandex.ru/d/7gi3IcRf-x6A9w
 [Диск БМ]: https://disk.yandex.ru/d/o2uVj54sQJi7yA
 [ФЭФМ. Учебное]: https://cloud.mail.ru/public/A81Y/LKw1aaFQJ
@@ -181,6 +199,7 @@
 [chem]: https://disk.yandex.ru/d/wURLXxVDtA8Qjw
 [bio]: https://disk.yandex.ru/d/hSRqRQNkdaqZCg
 [студенты]: https://disk.yandex.ru/d/ZViQIMLaJqFUFg
+[books]: https://disk.yandex.ru/d/eQoqRtSgpxqtug
 
 <!----------------------------------{ ВК }--------------------------------->
 [ТПФ]: https://vk.com/t_p_phystech
@@ -191,6 +210,8 @@
 [Тупой скат вк]: https://vk.com/tupoy_skat
 [CoScience]: https://vk.com/co_science
 [Клуб Теха Лекций]: https://vk.com/mipt_ltc
+
+<!---{ Внеучебное }--->
 [Физтех.Confessions]: https://vk.com/phystech.confessions
 
 <!----------------------------------{ Телеграм }--------------------------------->
@@ -199,20 +220,21 @@
 [лешка конспектирует]: https://t.me/krssnoval
 [EK-Конспекты]: https://t.me/ek_summary
 
-<!----------------------------------{ Tex }--------------------------------->
-[github.com/BlackSamorez/mipt_lab]: https://github.com/BlackSamorez/mipt_lab
-[github.com/GoshaAB29/mipt_lab]: https://github.com/GoshaAB29/mipt_lab
-[github.com/Vokerlee/Physical-labs]: https://github.com/Vokerlee/Physical-labs
-[github.com/OAMichael/MIPT-labs]: https://github.com/OAMichael/MIPT-labs
-[github.com/Nekhaevalex/Labs]: https://github.com/Nekhaevalex/Labs
-[github.com/Kiarendil/labs]: https://github.com/Kiarendil/labs
+<!----------------------------------{ Github }--------------------------------->
+<!---{ Техи лабораторных работ }--->
+[BlackSamorez/mipt_lab]: https://github.com/BlackSamorez/mipt_lab
+[GoshaAB29/mipt_lab]: https://github.com/GoshaAB29/mipt_lab
+[Vokerlee/Physical-labs]: https://github.com/Vokerlee/Physical-labs
+[OAMichael/MIPT-labs]: https://github.com/OAMichael/MIPT-labs
+[Nekhaevalex/Labs]: https://github.com/Nekhaevalex/Labs
+[Kiarendil/labs]: https://github.com/Kiarendil/labs
 
-[github.com/daniild71r/lectures_tex_club]: https://github.com/daniild71r/lectures_tex_club
+<!---{ Техи лекций }--->
+[daniild71r/lectures_tex_club]: https://github.com/daniild71r/lectures_tex_club
+[YasnoDelo/Obsidian-MIPT]: https://github.com/YasnoDelo/Obsidian-MIPT/
 
-<!----------------------------------{ Литература }--------------------------------->
-[books]: https://disk.yandex.ru/d/eQoqRtSgpxqtug
-[Методички по высшей математике]: https://old.mipt.ru/education/chair/mathematics/study/methods/
-[Учебники по высшей математике]: https://old.mipt.ru/education/chair/mathematics/study/uchebniki/
+<!---{ Software }--->
+[gnu-koryavov]: https://github.com/sin-diesel/gnu-koryavov
 
 <!----------------------------------{ YouTube }--------------------------------->
 [Лекторий ФБМФ]: https://www.youtube.com/@lectoriy_bma/videos
@@ -229,14 +251,21 @@
 [Папа Лёхи]: https://www.youtube.com/@llalla_Jiexu
 
 <!----------------------------------{ Сайты }--------------------------------->
+<!---{ Оффициальные }--->
+[Методички по высшей математике]: https://old.mipt.ru/education/chair/mathematics/study/methods/
+[Учебники по высшей математике]: https://old.mipt.ru/education/chair/mathematics/study/uchebniki/
+[Электронная библиотека Физтеха]: https://lib.mipt.ru/
+[МФТИ-Телеком]: http://mipt-telecom.ru/
+
+<!---{ Неоффициальные }--->
 [Операция "Раздолбай"]: https://mipt1.ru/
 [umnov.ru]: http://www.umnov.ru/
 [rubtsov.su]: http://www.rubtsov.su/
 [HPMNS]: https://hpmns.gitbook.io/notes
 [pyrkovaoa-fizteh.ru]: https://pyrkovaoa-fizteh.ru/
-
-<!----------------------------------{ Программы }--------------------------------->
-[gnu-koryavov]: https://github.com/sin-diesel/gnu-koryavov
+[Физтех-Печать]: https://printmipt.ru/
+[PrintBox]: https://printbox.io/
+[MIPT.Tech]: https://mipt.tech/
 
 <!----------------------------------{ Discord }--------------------------------->
 [Тесты по БЖД]: https://discord.gg/vXu6SGy3qW

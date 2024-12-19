@@ -12,7 +12,7 @@
 
 [Диск ФЭФМа]
 
-[Диск Гриши Цвика]
+[! Disquette] - Диск Гриши Цвика
 
 [Диск Саши Богданова]
 
@@ -150,7 +150,7 @@
 [Диск БМ]: https://disk.yandex.ru/d/o2uVj54sQJi7yA
 [ФЭФМ. Учебное]: https://cloud.mail.ru/public/A81Y/LKw1aaFQJ
 [Диск ФЭФМа]: https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs
-[Диск Гриши Цвика]: https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds
+[! Disquette]: https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds
 [Диск Саши Богданова]: https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb
 [Диск Алексея Охрименко]: https://disk.yandex.ru/d/KM9tmEqktez2Bw
 [Диск Ани Назарчук]: https://disk.yandex.ru/d/FkDlbMtLMTE48Q

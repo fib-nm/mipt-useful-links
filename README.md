@@ -62,6 +62,8 @@
 
 [CoScience]
 
+[Клуб Теха Лекций]
+
 [Физтех.Confessions]
 
 ## Телеграм
@@ -178,6 +180,7 @@
 [РТ-курсы в МФТИ]: https://vk.com/drec_courses
 [Тупой скат вк]: https://vk.com/tupoy_skat
 [CoScience]: https://vk.com/co_science
+[Клуб Теха Лекций]: https://vk.com/mipt_ltc
 [Физтех.Confessions]: https://vk.com/phystech.confessions
 
 <!----------------------------------{ Телеграм }--------------------------------->

@@ -60,6 +60,8 @@
 
 [Тупой скат вк]
 
+[CoScience]
+
 [Физтех.Confessions]
 
 ## Телеграм
@@ -175,6 +177,7 @@
 [Deep Learning School]: https://vk.com/dlschool_mipt
 [РТ-курсы в МФТИ]: https://vk.com/drec_courses
 [Тупой скат вк]: https://vk.com/tupoy_skat
+[CoScience]: https://vk.com/co_science
 [Физтех.Confessions]: https://vk.com/phystech.confessions
 
 <!----------------------------------{ Телеграм }--------------------------------->

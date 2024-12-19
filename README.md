@@ -74,7 +74,8 @@
 
 [лешка конспектирует]
 
-## Лабы
+## Tex
+### Лабы
 
 [github.com/BlackSamorez/mipt_lab]
 
@@ -87,6 +88,9 @@
 [github.com/Nekhaevalex/Labs]
 
 [github.com/Kiarendil/labs]
+
+### Лекции
+[github.com/daniild71r/lectures_tex_club]
 
 ## Литература
 
@@ -188,13 +192,15 @@
 [Учебные материалы пмф]: https://t.me/joinchat/u7PRyovIOIc5ZWFi
 [лешка конспектирует]: https://t.me/krssnoval
 
-<!----------------------------------{ Лабы }--------------------------------->
+<!----------------------------------{ Tex }--------------------------------->
 [github.com/BlackSamorez/mipt_lab]: https://github.com/BlackSamorez/mipt_lab
 [github.com/GoshaAB29/mipt_lab]: https://github.com/GoshaAB29/mipt_lab
 [github.com/Vokerlee/Physical-labs]: https://github.com/Vokerlee/Physical-labs
 [github.com/OAMichael/MIPT-labs]: https://github.com/OAMichael/MIPT-labs
 [github.com/Nekhaevalex/Labs]: https://github.com/Nekhaevalex/Labs
 [github.com/Kiarendil/labs]: https://github.com/Kiarendil/labs
+
+[github.com/daniild71r/lectures_tex_club]: https://github.com/daniild71r/lectures_tex_club
 
 <!----------------------------------{ Литература }--------------------------------->
 [books]: https://disk.yandex.ru/d/eQoqRtSgpxqtug

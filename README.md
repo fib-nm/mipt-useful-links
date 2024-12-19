@@ -74,6 +74,8 @@
 
 [лешка конспектирует]
 
+[EK-Конспекты] - Тг-канал с конспектами для ФПМИ
+
 ## Tex
 ### Лабы
 
@@ -195,6 +197,7 @@
 [Катаем задавальник всем курсом]: https://t.me/joinchat/cUGBaoxrYl44MTdi
 [Учебные материалы пмф]: https://t.me/joinchat/u7PRyovIOIc5ZWFi
 [лешка конспектирует]: https://t.me/krssnoval
+[EK-Конспекты]: https://t.me/ek_summary
 
 <!----------------------------------{ Tex }--------------------------------->
 [github.com/BlackSamorez/mipt_lab]: https://github.com/BlackSamorez/mipt_lab

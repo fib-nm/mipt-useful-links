@@ -44,6 +44,8 @@
 
 [bio] - Биология
 
+[студенты]
+
 ## ВК
 
 [ТПФ]
@@ -164,6 +166,7 @@
 [Physics]: https://disk.yandex.ru/d/YdkpvEbcGnxXow
 [chem]: https://disk.yandex.ru/d/wURLXxVDtA8Qjw
 [bio]: https://disk.yandex.ru/d/hSRqRQNkdaqZCg
+[студенты]: https://disk.yandex.ru/d/ZViQIMLaJqFUFg
 
 <!----------------------------------{ ВК }--------------------------------->
 [ТПФ]: https://vk.com/t_p_phystech

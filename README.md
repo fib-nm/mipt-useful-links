@@ -8,6 +8,8 @@
 
 [Диск БМ]
 
+[Диск ФАКИ]
+
 [ФЭФМ. Учебное]
 
 [Диск ФЭФМа]
@@ -180,6 +182,7 @@
 <!----------------------------------{ Облачные хранилища }--------------------------------->
 [Диск РТ]: https://disk.yandex.ru/d/7gi3IcRf-x6A9w
 [Диск БМ]: https://disk.yandex.ru/d/o2uVj54sQJi7yA
+[Диск ФАКИ]: https://disk.yandex.ru/d/SOFt0CVHCrcjhg
 [ФЭФМ. Учебное]: https://cloud.mail.ru/public/A81Y/LKw1aaFQJ
 [Диск ФЭФМа]: https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs
 [! Disquette]: https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds

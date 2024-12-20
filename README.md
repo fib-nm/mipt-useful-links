@@ -50,6 +50,8 @@
 
 [books] - Диск с разной литературой
 
+[Рационалист на Физтехе]
+
 ## ВК
 
 ### Учебное
@@ -203,6 +205,7 @@
 [bio]: https://disk.yandex.ru/d/hSRqRQNkdaqZCg
 [студенты]: https://disk.yandex.ru/d/ZViQIMLaJqFUFg
 [books]: https://disk.yandex.ru/d/eQoqRtSgpxqtug
+[Рационалист на Физтехе]: https://disk.yandex.ru/d/vYd3bXOK24eTVA
 
 <!----------------------------------{ ВК }--------------------------------->
 [ТПФ]: https://vk.com/t_p_phystech

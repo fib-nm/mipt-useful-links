@@ -87,23 +87,23 @@
 ## Github
 ### Лабы
 
-[BlackSamorez/mipt_lab](https://github.com/BlackSamorez/mipt_lab)
+[BlackSamorez/mipt_lab](https://github.com/BlackSamorez/mipt_lab) - MIPT physics lab reports
 
-[GoshaAB29/mipt_lab](https://github.com/GoshaAB29/mipt_lab)
+[GoshaAB29/mipt_lab](https://github.com/GoshaAB29/mipt_lab) - Laboratory work in general physics
 
-[Vokerlee/Physical-labs](https://github.com/Vokerlee/Physical-labs)
+[Vokerlee/Physical-labs](https://github.com/Vokerlee/Physical-labs) - Здесь лежат лабы по физике от Vokerlee.
 
-[OAMichael/MIPT-labs](https://github.com/OAMichael/MIPT-labs)
+[OAMichael/MIPT-labs](https://github.com/OAMichael/MIPT-labs) - MIPT laboratory works carried out since 2nd semester
 
-[Nekhaevalex/Labs](https://github.com/Nekhaevalex/Labs)
+[Nekhaevalex/Labs](https://github.com/Nekhaevalex/Labs) - All my Labs
 
-[Kiarendil/labs](https://github.com/Kiarendil/labs)
+[Kiarendil/labs](https://github.com/Kiarendil/labs) - Labs for general physics MIPT
 
 ### Лекции
 
-[daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club)
+[daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) - Репозиторий для конспектов Клуба Теха Лекций.
 
-[YasnoDelo/Obsidian-MIPT](https://github.com/YasnoDelo/Obsidian-MIPT/)
+[YasnoDelo/Obsidian-MIPT](https://github.com/YasnoDelo/Obsidian-MIPT) - files for Obsidian
 
 ### Software
 

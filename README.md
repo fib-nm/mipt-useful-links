@@ -1,9 +1,11 @@
 # Полезные ссылки МФТИ
+
 Список актуальных ссылок на полезные для студентов МФТИ ресурсы.
 
 # Список
 
 ## Облачные хранилища
+
 [Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w)
 
 [Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA)
@@ -85,6 +87,7 @@
 [EK-Конспекты](https://t.me/ek_summary) - Тг-канал с конспектами для ФПМИ
 
 ## Github
+
 ### Лабы
 
 [BlackSamorez/mipt_lab](https://github.com/BlackSamorez/mipt_lab) - MIPT physics lab reports
@@ -136,6 +139,7 @@
 [Папа Лёхи](https://www.youtube.com/@llalla_Jiexu) - Разбор дз по общей физике
 
 ## Сайты
+
 ### Оффициальные
 
 [Методички по высшей математике](https://old.mipt.ru/education/chair/mathematics/study/methods/)
@@ -175,6 +179,22 @@
 Можно создать issue, чтобы попросить добавить ресурс в список (в issue должны быть название ресурса и ссылка).
 
 Для любых других изменений делайте pull request.
+
+# Источники
+
+Большая часть ссылок взята из файлов с полезными ссылками на различных дисках:
+
+[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) --- [Полезное.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FvOoIGl2moM4YXYuh0Ag%2BdAvshFOVmiM%2BQL%2FEzlW0gl%2FAvlqKN9%2BxsAUnQDBen5nGeAn62gIiktaMpHuWJ3p25Q%3D%3D%3A%2F%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx&name=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx)
+
+[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) --- [Умный скат.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx&name=%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx)
+
+[Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs) --- [Полезные ссылки.docx](https://docs.google.com/document/d/1YeJw4ocdZkPEsoJb3SdOWNMgNEw3zPPh/edit)
+
+[! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds) --- [Ссылки](https://docs.google.com/document/d/13oGZkgDYxTUmpCZN0HYMk8Eg72i7V7PhymTXhIU3O84/edit?tab=t.0)
+
+[Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb) --- [Полезные ссылки.rtf](https://docs.google.com/document/d/1IIvRXCHVavfdEOiNK38kF02jlgEv80ikeBgl5S674g8/edit?tab=t.0)
+
+[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) --- [полезные ссылки.docx](https://docviewer.yandex.com/view/0/?*=z5KkuttzWmJk%2FxSWydWgIG6ABxR7InVybCI6InlhLWRpc2stcHVibGljOi8vTTVjeGZ0amkwV1ZYc0tocGtGTGlZa0lwYzZvYWgyYytaNHJXeis5KzJnbVJBSGZPRm5PejhuYk16MjYyNHdxM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0L%2FQvtC70LXQt9C90YvQtSDRhNCw0LnQu9C40LrQuC%2FQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4IiwidGl0bGUiOiLQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE3MzQ3MTI4NTA4MDMsInl1IjoiNDAzNjE0ODE0MTczMzM5OTU1NiJ9)
 
 # Мои контакты
 Связаться со мной можно через вк: https://vk.com/fib_nm.

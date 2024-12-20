@@ -20,7 +20,7 @@
 
 [Диск Алексея Охрименко]
 
-[Диск Ани Назарчук]
+[Физтех] - Диск Ани Назарчук. Можно найти конспекты лекций, дз, лабы.
 
 [MIPT by alexey krasnov] - Диск Алексея Краснова и Вики Ханиной
 
@@ -190,7 +190,7 @@
 [! Disquette]: https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds
 [Диск Саши Богданова]: https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb
 [Диск Алексея Охрименко]: https://disk.yandex.ru/d/KM9tmEqktez2Bw
-[Диск Ани Назарчук]: https://disk.yandex.ru/d/FkDlbMtLMTE48Q
+[Физтех]: https://disk.yandex.ru/d/FkDlbMtLMTE48Q
 [MIPT by alexey krasnov]: https://disk.yandex.com/d/OKF8sL_f8K3oXA
 [Маленький фопфёнок]: https://drive.google.com/drive/folders/1diz0NX0Gt6dtWG5FsSQfotXPS2zhHmPl
 [Диск Николая Победина]: https://drive.google.com/drive/folders/1yzQpcIFcg_iIifawsfPyUIaabgUpr1gN

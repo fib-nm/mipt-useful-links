@@ -24,7 +24,7 @@
 
 [Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) - Диск Ани Назарчук. Можно найти конспекты лекций, дз, лабы.
 
-[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) - Диск Алексея Краснова и Вики Ханиной
+[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) - Диск Алексея Краснова (Вики Ханиной)
 
 [Маленький фопфёнок](https://drive.google.com/drive/folders/1diz0NX0Gt6dtWG5FsSQfotXPS2zhHmPl) - Диск Алексея Тюрникова
 

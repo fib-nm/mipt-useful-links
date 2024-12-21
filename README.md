@@ -114,6 +114,8 @@
 
 [Kiarendil/labs](https://github.com/Kiarendil/labs) - Labs for general physics MIPT
 
+[vladyur/PhysLabs](https://github.com/vladyur/PhysLabs) - Затеханные за время обучения на ФУПМ МФТИ лабы по общей физике
+
 ### Лекции
 
 [daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) - Репозиторий для конспектов Клуба Теха Лекций.
@@ -197,6 +199,8 @@
 Большая часть ссылок взята из файлов с полезными ссылками на различных дисках:
 
 [Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) --- [Полезное.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FvOoIGl2moM4YXYuh0Ag%2BdAvshFOVmiM%2BQL%2FEzlW0gl%2FAvlqKN9%2BxsAUnQDBen5nGeAn62gIiktaMpHuWJ3p25Q%3D%3D%3A%2F%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx&name=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx)
+
+[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) --- [Гитхабы с лабами.txt](https://docviewer.yandex.ru/view/1130000060626948/?*=tAeomGgfOXRtnAglshBmn%2BIKKb17InVybCI6InlhLWRpc2stcHVibGljOi8vdk9vSUdsMm1vTTRZWFl1aDBBZytkQXZzaEZPVm1pTStRTC9FemxXMGdsL0F2bHFLTjkreHNBVW5RREJlbjVuR2VBbjYyZ0lpa3RhTXBIdVdKM3AyNVE9PTovMSDRgdC10LzQtdGB0YLRgC%2FQm9Cw0LHQvtGA0LDRgtC%2B0YDQvdGL0LUg0L%2FQviDRhNC40LfQuNC60LUv0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsInRpdGxlIjoi0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA2MDYyNjk0OCIsInRzIjoxNzM0NzgxMDU2NzY5LCJ5dSI6IjU5MTU0NTg3NjE3MjU5MDQxNjcifQ%3D%3D)
 
 [Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) --- [Умный скат.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx&name=%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx)
 

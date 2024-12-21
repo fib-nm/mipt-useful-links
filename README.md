@@ -34,7 +34,7 @@
 
 [MIPT](https://disk.yandex.ru/d/KM9tmEqktez2Bw) - Диск Алексея Охрименко
 
-[Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) - Диск Ани Назарчук. Можно найти конспекты лекций, дз, лабы.
+[Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) - Диск Ани Назарчук. Можно найти конспекты лекций, дз, лабы
 
 [MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) - Диск Алексея Краснова (Вики Ханиной)
 
@@ -62,7 +62,7 @@
 
 [books](https://disk.yandex.ru/d/eQoqRtSgpxqtug) - Диск с разной литературой
 
-[Рационалист на Физтехе](https://disk.yandex.ru/d/vYd3bXOK24eTVA) - Диск Анастасии Горшковой, ФАКТ. Можно найти конспекты лекций, дз, лабы.
+[Рационалист на Физтехе](https://disk.yandex.ru/d/vYd3bXOK24eTVA) - Диск Анастасии Горшковой, ФАКТ. Можно найти конспекты лекций, дз, лабы
 
 ## ВК
 
@@ -106,7 +106,7 @@
 
 [GoshaAB29/mipt_lab](https://github.com/GoshaAB29/mipt_lab) - Laboratory work in general physics
 
-[Vokerlee/Physical-labs](https://github.com/Vokerlee/Physical-labs) - Здесь лежат лабы по физике от Vokerlee.
+[Vokerlee/Physical-labs](https://github.com/Vokerlee/Physical-labs) - Здесь лежат лабы по физике от Vokerlee
 
 [OAMichael/MIPT-labs](https://github.com/OAMichael/MIPT-labs) - MIPT laboratory works carried out since 2nd semester
 
@@ -118,13 +118,13 @@
 
 ### Лекции
 
-[daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) - Репозиторий для конспектов Клуба Теха Лекций.
+[daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) - Репозиторий для конспектов Клуба Теха Лекций
 
 [YasnoDelo/Obsidian-MIPT](https://github.com/YasnoDelo/Obsidian-MIPT) - files for Obsidian
 
 ### Software
 
-[gnu-koryavov](https://github.com/sin-diesel/gnu-koryavov) - Утилита командной строки Linux и MacOS, с помощью которой можно получать номер страницы для заданной задачи в Корявнике разных семестров, а также автоматически скачивать нужную версию книги и открывать её на нужной странице.
+[gnu-koryavov](https://github.com/sin-diesel/gnu-koryavov) - Утилита командной строки Linux и MacOS, с помощью которой можно получать номер страницы для заданной задачи в Корявнике разных семестров, а также автоматически скачивать нужную версию книги и открывать её на нужной странице
 
 ## YouTube
 
@@ -182,9 +182,21 @@
 
 [MIPT.Tech](https://mipt.tech/) - Стиралки, сушилки
 
+[Tables Generator](https://www.tablesgenerator.com/) - Генератор таблиц для латеха
+
+[Detexify](https://detexify.kirelabs.org/classify.html) - Веб-приложение, распознающее рукописные символы
+
+[Mathpix](https://mathpix.com/) - Веб-приложение,переводящее изображения и пдф-файлы в код латеха
+
 ## Discord
 
-[Тесты по БЖД](https://discord.gg/vXu6SGy3qW) - Небольшая самореклама.
+[Тесты по БЖД](https://discord.gg/vXu6SGy3qW) - Небольшая самореклама
+
+## Overleaf
+
+[Шаблон! теперь реально шаблон!](https://www.overleaf.com/9528985947twmtqbysvvvk) - Шаблон для лаб по физике
+
+[148](https://www.overleaf.com/read/vwbpptjbzqrs) - Пример оформления лабы по физике
 
 # Проблемы со ссылками
 Если ссылки не работают, или ведут не туда, куда должны, создайте issue.
@@ -203,6 +215,8 @@
 [Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) --- [Гитхабы с лабами.txt](https://docviewer.yandex.ru/view/1130000060626948/?*=tAeomGgfOXRtnAglshBmn%2BIKKb17InVybCI6InlhLWRpc2stcHVibGljOi8vdk9vSUdsMm1vTTRZWFl1aDBBZytkQXZzaEZPVm1pTStRTC9FemxXMGdsL0F2bHFLTjkreHNBVW5RREJlbjVuR2VBbjYyZ0lpa3RhTXBIdVdKM3AyNVE9PTovMSDRgdC10LzQtdGB0YLRgC%2FQm9Cw0LHQvtGA0LDRgtC%2B0YDQvdGL0LUg0L%2FQviDRhNC40LfQuNC60LUv0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsInRpdGxlIjoi0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA2MDYyNjk0OCIsInRzIjoxNzM0NzgxMDU2NzY5LCJ5dSI6IjU5MTU0NTg3NjE3MjU5MDQxNjcifQ%3D%3D)
 
 [Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) --- [Умный скат.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx&name=%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx)
+
+[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) --- [Ссылки.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FLaTex%2F%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&name=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&nosw=1)
 
 [Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs) --- [Полезные ссылки.docx](https://docs.google.com/document/d/1YeJw4ocdZkPEsoJb3SdOWNMgNEw3zPPh/edit)
 

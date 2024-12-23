@@ -305,17 +305,19 @@
 
 [HPMNS](https://hpmns.gitbook.io/notes) - Лекции по философии
 
-[Физтех-Печать](https://printmipt.ru/)
+[Физтех-Печать](https://printmipt.ru/) - Печать на физтехе
 
-[PrintBox](https://printbox.io/)
+[PrintBox](https://printbox.io/) - Печать по всей России и в том числе, на Физтехе
 
 [MIPT.Tech](https://mipt.tech/) - Стиралки, сушилки
+
+### Software
 
 [Tables Generator](https://www.tablesgenerator.com/) - Генератор таблиц для латеха
 
 [Detexify](https://detexify.kirelabs.org/classify.html) - Веб-приложение, распознающее рукописные символы
 
-[Mathpix](https://mathpix.com/) - Веб-приложение,переводящее изображения и пдф-файлы в код латеха
+[Mathpix](https://mathpix.com) - Веб-приложение, переводящее изображения и пдф-файлы в код латеха
 
 ## Discord
 

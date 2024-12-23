@@ -285,35 +285,35 @@
 
 ### Оффициальные
 
-[Методички по высшей математике](https://old.mipt.ru/education/chair/mathematics/study/methods/)
+[Методички по высшей математике](https://old.mipt.ru/education/chair/mathematics/study/methods)
 
-[Учебники по высшей математике](https://old.mipt.ru/education/chair/mathematics/study/uchebniki/)
+[Учебники по высшей математике](https://old.mipt.ru/education/chair/mathematics/study/uchebniki)
 
-[Электронная библиотека Физтеха](https://lib.mipt.ru/)
+[Электронная библиотека Физтеха](https://lib.mipt.ru)
 
-[МФТИ-Телеком](http://mipt-telecom.ru/) - ISP Физтеха
+[МФТИ-Телеком](http://mipt-telecom.ru) - ISP Физтеха
 
 ### Неоффициальные
 
-[Операция "Раздолбай"](https://mipt1.ru/) - Он же "в помощь раздолбаю"
+[Операция "Раздолбай"](https://mipt1.ru) - Он же "в помощь раздолбаю"
 
-[umnov.ru](http://www.umnov.ru/) - Сайт А.Е. И Е.А. Умновых по высшей математике
+[umnov.ru](http://www.umnov.ru) - Сайт А.Е. И Е.А. Умновых по высшей математике
 
-[rubtsov.su](http://www.rubtsov.su/) - Сайт А. Рубцова (ТРЯП, алгебра логики, комбинаторика, теория графов, основные алгоритмы)
+[rubtsov.su](http://www.rubtsov.su) - Сайт А. Рубцова (ТРЯП, алгебра логики, комбинаторика, теория графов, основные алгоритмы)
 
-[pyrkovaoa-fizteh.ru](https://pyrkovaoa-fizteh.ru/) - Сайт Пырковой по высшей математике
+[pyrkovaoa-fizteh.ru](https://pyrkovaoa-fizteh.ru) - Сайт Пырковой по высшей математике
 
 [HPMNS](https://hpmns.gitbook.io/notes) - Лекции по философии
 
-[Физтех-Печать](https://printmipt.ru/) - Печать на физтехе
+[Физтех-Печать](https://printmipt.ru) - Печать на физтехе
 
-[PrintBox](https://printbox.io/) - Печать по всей России и в том числе, на Физтехе
+[PrintBox](https://printbox.io) - Печать по всей России и в том числе, на Физтехе
 
-[MIPT.Tech](https://mipt.tech/) - Стиралки, сушилки
+[MIPT.Tech](https://mipt.tech) - Стиралки, сушилки
 
 ### Software
 
-[Tables Generator](https://www.tablesgenerator.com/) - Генератор таблиц для латеха
+[Tables Generator](https://www.tablesgenerator.com) - Генератор таблиц для латеха
 
 [Detexify](https://detexify.kirelabs.org/classify.html) - Веб-приложение, распознающее рукописные символы
 

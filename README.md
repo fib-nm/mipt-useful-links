@@ -627,6 +627,17 @@
 
 [Physics](https://disk.yandex.ru/d/YdkpvEbcGnxXow)
 
+<details>
+  <summary>Содержит материалы по предметам:</summary>
+
+- Механика
+- Термодинамика
+- Лабораторные работы по термодинамике
+- Электричество и магнетизм
+- Оптика
+- Лабораторные работы по оптике
+</details><br>
+
 [chem](https://disk.yandex.ru/d/wURLXxVDtA8Qjw) - Химия.
 
 [bio](https://disk.yandex.ru/d/hSRqRQNkdaqZCg) - Биология.

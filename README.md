@@ -687,11 +687,13 @@
 
 [vladyur/PhysLabs](https://github.com/vladyur/PhysLabs) - Затеханные за время обучения на ФУПМ МФТИ лабы по общей физике.
 
-### 3.4.2. Лекции
+### 3.4.2. Лекции и методички
 
 [daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) - Репозиторий для конспектов Клуба Теха Лекций.
 
 [YasnoDelo/Obsidian-MIPT](https://github.com/YasnoDelo/Obsidian-MIPT) - files for Obsidian.
+
+[GOS-Book/GOS-Book.github.io](https://github.com/GOS-Book/GOS-Book.github.io) - 📙 Пособие для подготовки ГОСу по математике для студентов МФТИ
 
 ### 3.4.3. Software
 

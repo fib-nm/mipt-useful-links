@@ -649,7 +649,19 @@
 - Органическая химия
 </details><br>
 
-[bio](https://disk.yandex.ru/d/hSRqRQNkdaqZCg) - Биология.
+[bio](https://disk.yandex.ru/d/hSRqRQNkdaqZCg)
+
+<details>
+  <summary>Содержит материалы по предметам:</summary>
+
+- Физико-химические методы исследования биополимеров
+- Иммунология
+- Клеточная биология
+- Молекулярная биология
+- Нейробиология
+- Общая биология
+- Физиология
+</details><br>
 
 [books](https://disk.yandex.ru/d/eQoqRtSgpxqtug) - Диск с разной литературой.
 

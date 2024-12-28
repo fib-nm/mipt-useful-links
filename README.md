@@ -389,7 +389,7 @@
 - Статистическая физика
 </details><br>
 
-[Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) - Диск Ани Назарчук.
+[Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) - Диск Ани Назарчук, ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -425,7 +425,7 @@
 - Лабораторные работы по квантовой физике
 </details><br>
 
-[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) - Диск Алексея Краснова (Вики Ханиной).
+[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) - Диск Алексея Краснова (Вики Ханиной), ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -509,7 +509,7 @@
 - Теоретическая механика
 </details><br>
 
-[Физтех](https://drive.google.com/drive/folders/1yzQpcIFcg_iIifawsfPyUIaabgUpr1gN) - Диск Николая Победина.
+[Физтех](https://drive.google.com/drive/folders/1yzQpcIFcg_iIifawsfPyUIaabgUpr1gN) - Диск Николая Победина, ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -603,7 +603,7 @@
 - Электродинамика сплошных сред (ЭСС)
 </details><br>
 
-[М(ФТИ) всякие приколы](https://drive.google.com/drive/folders/1SYLnCQ_b1udKujWBJ2v8--BDP8LXyjwT) - Диск Юли Киселевой.
+[М(ФТИ) всякие приколы](https://drive.google.com/drive/folders/1SYLnCQ_b1udKujWBJ2v8--BDP8LXyjwT) - Диск Юли Киселевой, ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>

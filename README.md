@@ -638,7 +638,16 @@
 - Лабораторные работы по оптике
 </details><br>
 
-[chem](https://disk.yandex.ru/d/wURLXxVDtA8Qjw) - Химия.
+[chem](https://disk.yandex.ru/d/wURLXxVDtA8Qjw)
+
+<details>
+  <summary>Содержит материалы по предметам:</summary>
+
+- Биохимия
+- Физическая химия
+- Неорганическая химия
+- Органическая химия
+</details><br>
 
 [bio](https://disk.yandex.ru/d/hSRqRQNkdaqZCg) - Биология.
 

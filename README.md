@@ -78,7 +78,7 @@
 - Основные алгоритмы
 - Теория и реализация языков программирования (ТРЯП)
 - Теория формальных систем и алгоритмов (ТФСиА)
-</details><br><br>
+</details><br>
 
 [Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA)
 
@@ -132,7 +132,7 @@
 - Философия
 - LaTex
 - Анатомия и физиология
-</details><br><br>
+</details><br>
 
 [Диск ФАКИ](https://disk.yandex.ru/d/SOFt0CVHCrcjhg)
 
@@ -171,7 +171,7 @@
 - Инженерное проектирование
 - Python
 - C++
-</details><br><br>
+</details><br>
 
 [ФЭФМ. Учебное](https://cloud.mail.ru/public/A81Y/LKw1aaFQJ) - Диск ФЭФМ, старая версия
 
@@ -224,7 +224,7 @@
 - Фотофизические процессы
 - Квантовая оптика
 - Статистическая физика
-</details><br><br>
+</details><br>
 
 [! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds) - Диск Гриши Цвика
 
@@ -260,7 +260,7 @@
 - Математические основы управления
 - Основы финансовой грамотности (экономика)
 - Статистическая физика
-</details><br><br>
+</details><br>
 
 [Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb) - Диск Александра Богданова
 
@@ -313,7 +313,7 @@
 - Модели и динамика сетевых систем
 - Порождающие модели машинного обучения
 - Статистическая теория машинного обучения
-</details><br><br>
+</details><br>
 
 [MIPT](https://disk.yandex.ru/d/KM9tmEqktez2Bw) - Диск Алексея Охрименко
 
@@ -336,7 +336,7 @@
 - Матрица плотности и кинетика квантовых систем
 - Основы теории сверхпроводимости
 - Статистическая физика
-</details><br><br>
+</details><br>
 
 [Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) - Диск Ани Назарчук
 
@@ -365,7 +365,7 @@
 - Теория функции комплексного переменного (ТФКП)
 - Уравнения математической физики (УМФ)
 - Квантовая механика
-</details><br><br>
+</details><br>
 
 [MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) - Диск Алексея Краснова (Вики Ханиной)
 
@@ -407,7 +407,7 @@
 - История и философия культуры
 - Статистическая физика
 - Экспериментальные методы молекулярной биологии
-</details><br><br>
+</details><br>
 
 [Маленький фопфёнок](https://drive.google.com/drive/folders/1diz0NX0Gt6dtWG5FsSQfotXPS2zhHmPl) - Диск Алексея Тюрникова
 

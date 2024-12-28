@@ -138,7 +138,7 @@
 - Лабораторные работы по квантовой физике
 - Физиология
 - Биофизика клетки
-- ИБХ
+- ИБХ [?](#questionable-name)
 - Основы анатомии и физиологии
 - Статистическая физика
 - Финансы
@@ -674,10 +674,14 @@
 [148](https://www.overleaf.com/read/vwbpptjbzqrs) - Пример оформления лабы по физике.
 
 # 4. Проблемы со ссылками
+
 Если ссылки не работают, или ведут не туда, куда должны, создайте issue.
 
 # 5. Внесение изменений в список
+
 Можно создать issue, чтобы попросить добавить ресурс в список (в issue должны быть название ресурса и ссылка).
+
+<a name="questionable-name"></a>**?** Знаете полное название предмета, отмеченного вопросительным знаком — напишите issue, чтобы я мог заменить его.
 
 Для любых других изменений делайте pull request.
 
@@ -702,4 +706,5 @@
 [MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) --- [полезные ссылки.docx](https://docviewer.yandex.com/view/0/?*=z5KkuttzWmJk%2FxSWydWgIG6ABxR7InVybCI6InlhLWRpc2stcHVibGljOi8vTTVjeGZ0amkwV1ZYc0tocGtGTGlZa0lwYzZvYWgyYytaNHJXeis5KzJnbVJBSGZPRm5PejhuYk16MjYyNHdxM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0L%2FQvtC70LXQt9C90YvQtSDRhNCw0LnQu9C40LrQuC%2FQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4IiwidGl0bGUiOiLQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE3MzQ3MTI4NTA4MDMsInl1IjoiNDAzNjE0ODE0MTczMzM5OTU1NiJ9)
 
 # 7. Мои контакты
+
 Связаться со мной можно через вк: https://vk.com/fib_nm.

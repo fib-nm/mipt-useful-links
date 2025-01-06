@@ -189,9 +189,9 @@
 - C++
 </details><br>
 
-[ФЭФМ. Учебное](https://cloud.mail.ru/public/A81Y/LKw1aaFQJ) - Диск ФЭФМ, старая версия.
+[ФЭФМ. Учебное](https://cloud.mail.ru/public/A81Y/LKw1aaFQJ) — Диск ФЭФМ, старая версия.
 
-[Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs) - Диск ФЭФМ, новая версия.
+[Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs) — Диск ФЭФМ, новая версия.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -251,7 +251,7 @@
 - Статистическая физика
 </details><br>
 
-[! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds) - Диск Гриши Цвика.
+[! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds) — Диск Гриши Цвика.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -298,7 +298,7 @@
 - Статистическая физика
 </details><br>
 
-[Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb) - Диск Александра Богданова.
+[Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb) — Диск Александра Богданова.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -359,7 +359,7 @@
 - Статистическая теория машинного обучения
 </details><br>
 
-[MIPT](https://disk.yandex.ru/d/KM9tmEqktez2Bw) - Диск Алексея Охрименко.
+[MIPT](https://disk.yandex.ru/d/KM9tmEqktez2Bw) — Диск Алексея Охрименко.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -389,7 +389,7 @@
 - Статистическая физика
 </details><br>
 
-[Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) - Диск Ани Назарчук, ФОПФ.
+[Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) — Диск Ани Назарчук, ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -425,7 +425,7 @@
 - Лабораторные работы по квантовой физике
 </details><br>
 
-[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) - Диск Алексея Краснова (Вики Ханиной), ФОПФ.
+[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) — Диск Алексея Краснова (Вики Ханиной), ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -479,7 +479,7 @@
 - Экспериментальные методы молекулярной биологии
 </details><br>
 
-[Маленький фопфёнок](https://drive.google.com/drive/folders/1diz0NX0Gt6dtWG5FsSQfotXPS2zhHmPl) - Диск Алексея Тюрникова, ФОПФ.
+[Маленький фопфёнок](https://drive.google.com/drive/folders/1diz0NX0Gt6dtWG5FsSQfotXPS2zhHmPl) — Диск Алексея Тюрникова, ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -509,7 +509,7 @@
 - Теоретическая механика
 </details><br>
 
-[Физтех](https://drive.google.com/drive/folders/1yzQpcIFcg_iIifawsfPyUIaabgUpr1gN) - Диск Николая Победина, ФОПФ.
+[Физтех](https://drive.google.com/drive/folders/1yzQpcIFcg_iIifawsfPyUIaabgUpr1gN) — Диск Николая Победина, ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -546,7 +546,7 @@
 - Уравнения математической физики (УМФ)
 </details><br>
 
-[Lectures Tex Club](https://disk.yandex.ru/d/IDUn8-HtGvIBYA) - Техи лекций и разобранных билетов для экзаменов.
+[Lectures Tex Club](https://disk.yandex.ru/d/IDUn8-HtGvIBYA) — Техи лекций и разобранных билетов для экзаменов.
 
 [Тупой скат](https://drive.google.com/drive/folders/0B5U2D1zceCRyZ1FDaWVUUzNWVVE?resourcekey=0-f-2fDHkjeA55Rua0t8noQw)
 
@@ -603,7 +603,7 @@
 - Электродинамика сплошных сред (ЭСС)
 </details><br>
 
-[М(ФТИ) всякие приколы](https://drive.google.com/drive/folders/1SYLnCQ_b1udKujWBJ2v8--BDP8LXyjwT) - Диск Юли Киселевой, ФОПФ.
+[М(ФТИ) всякие приколы](https://drive.google.com/drive/folders/1SYLnCQ_b1udKujWBJ2v8--BDP8LXyjwT) — Диск Юли Киселевой, ФОПФ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -662,7 +662,7 @@
 - Статистическая физика
 </details><br>
 
-[студенты](https://disk.yandex.ru/d/ZViQIMLaJqFUFg) - Записи и техи семинаров Скубачевского.
+[студенты](https://disk.yandex.ru/d/ZViQIMLaJqFUFg) — Записи и техи семинаров Скубачевского.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -716,9 +716,9 @@
 - Физиология
 </details><br>
 
-[books](https://disk.yandex.ru/d/eQoqRtSgpxqtug) - Диск с разной литературой.
+[books](https://disk.yandex.ru/d/eQoqRtSgpxqtug) — Диск с разной литературой.
 
-[Рационалист на Физтехе](https://disk.yandex.ru/d/vYd3bXOK24eTVA) - Диск Анастасии Горшковой, ФАКТ.
+[Рационалист на Физтехе](https://disk.yandex.ru/d/vYd3bXOK24eTVA) — Диск Анастасии Горшковой, ФАКТ.
 
 <details>
   <summary>Содержит материалы по предметам:</summary>
@@ -791,37 +791,37 @@
 
 [лешка конспектирует](https://t.me/krssnoval)
 
-[EK-Конспекты](https://t.me/ek_summary) - Тг-канал с конспектами для ФПМИ.
+[EK-Конспекты](https://t.me/ek_summary) — Тг-канал с конспектами для ФПМИ.
 
 ## 3.4. Github
 
 ### 3.4.1. Лабы
 
-[BlackSamorez/mipt_lab](https://github.com/BlackSamorez/mipt_lab) - MIPT physics lab reports.
+[BlackSamorez/mipt_lab](https://github.com/BlackSamorez/mipt_lab) — MIPT physics lab reports.
 
-[GoshaAB29/mipt_lab](https://github.com/GoshaAB29/mipt_lab) - Laboratory work in general physics.
+[GoshaAB29/mipt_lab](https://github.com/GoshaAB29/mipt_lab) — Laboratory work in general physics.
 
-[Vokerlee/Physical-labs](https://github.com/Vokerlee/Physical-labs) - Здесь лежат лабы по физике от Vokerlee.
+[Vokerlee/Physical-labs](https://github.com/Vokerlee/Physical-labs) — Здесь лежат лабы по физике от Vokerlee.
 
-[OAMichael/MIPT-labs](https://github.com/OAMichael/MIPT-labs) - MIPT laboratory works carried out since 2nd semester.
+[OAMichael/MIPT-labs](https://github.com/OAMichael/MIPT-labs) — MIPT laboratory works carried out since 2nd semester.
 
-[Nekhaevalex/Labs](https://github.com/Nekhaevalex/Labs) - All my Labs.
+[Nekhaevalex/Labs](https://github.com/Nekhaevalex/Labs) — All my Labs.
 
-[Kiarendil/labs](https://github.com/Kiarendil/labs) - Labs for general physics MIPT.
+[Kiarendil/labs](https://github.com/Kiarendil/labs) — Labs for general physics MIPT.
 
-[vladyur/PhysLabs](https://github.com/vladyur/PhysLabs) - Затеханные за время обучения на ФУПМ МФТИ лабы по общей физике.
+[vladyur/PhysLabs](https://github.com/vladyur/PhysLabs) — Затеханные за время обучения на ФУПМ МФТИ лабы по общей физике.
 
 ### 3.4.2. Лекции и методички
 
-[daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) - Репозиторий для конспектов Клуба Теха Лекций.
+[daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) — Репозиторий для конспектов Клуба Теха Лекций.
 
-[YasnoDelo/Obsidian-MIPT](https://github.com/YasnoDelo/Obsidian-MIPT) - files for Obsidian.
+[YasnoDelo/Obsidian-MIPT](https://github.com/YasnoDelo/Obsidian-MIPT) — files for Obsidian.
 
-[GOS-Book/GOS-Book.github.io](https://github.com/GOS-Book/GOS-Book.github.io) - 📙 Пособие для подготовки ГОСу по математике для студентов МФТИ
+[GOS-Book/GOS-Book.github.io](https://github.com/GOS-Book/GOS-Book.github.io) — 📙 Пособие для подготовки ГОСу по математике для студентов МФТИ.
 
 ### 3.4.3. Software
 
-[gnu-koryavov](https://github.com/sin-diesel/gnu-koryavov) - Утилита командной строки Linux и MacOS, с помощью которой можно получать номер страницы для заданной задачи в Корявнике разных семестров, а также автоматически скачивать нужную версию книги и открывать её на нужной странице.
+[gnu-koryavov](https://github.com/sin-diesel/gnu-koryavov) — Утилита командной строки Linux и MacOS, с помощью которой можно получать номер страницы для заданной задачи в Корявнике разных семестров, а также автоматически скачивать нужную версию книги и открывать её на нужной странице.
 
 ## 3.5. YouTube
 
@@ -843,17 +843,17 @@
 
 [Кафедра Теоретической Механики](https://www.youtube.com/channel/UCdQN8tQsBJFMx57wsLt0JKw)
 
-[Константин Владимиров](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A) - C++.
+[Константин Владимиров](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A) — C++.
 
-[Тимофей Хирьянов](https://www.youtube.com/c/ТимофейХирьянов) - Python, C, C++.
+[Тимофей Хирьянов](https://www.youtube.com/c/ТимофейХирьянов) — Python, C, C++.
 
-[Папа Лёхи](https://www.youtube.com/@llalla_Jiexu) - Разбор дз по общей физике.
+[Папа Лёхи](https://www.youtube.com/@llalla_Jiexu) — Разбор дз по общей физике.
 
 ## 3.6. Сайты
 
 ### 3.6.1. Официальные
 
-[МФТИ — Московский физико-технический институт](https://mipt.ru) - Официальный сайт МФТИ.
+[МФТИ — Московский физико-технический институт](https://mipt.ru) — Официальный сайт МФТИ.
 
 [Методички по высшей математике](https://old.mipt.ru/education/chair/mathematics/study/methods)
 
@@ -861,7 +861,7 @@
 
 [Электронная библиотека Физтеха](https://lib.mipt.ru)
 
-[МФТИ-Телеком](http://mipt-telecom.ru) - ISP Физтеха.
+[МФТИ-Телеком](http://mipt-telecom.ru) — ISP Физтеха.
 
 [Физтех.Фабрика](https://miptfab.ru)
 
@@ -871,39 +871,39 @@
 
 ### 3.6.2. Неофициальные
 
-[Операция "Раздолбай"](https://mipt1.ru) - Он же "в помощь раздолбаю".
+[Операция "Раздолбай"](https://mipt1.ru) — Он же "в помощь раздолбаю".
 
-[umnov.ru](http://www.umnov.ru) - Сайт А.Е. И Е.А. Умновых по высшей математике.
+[umnov.ru](http://www.umnov.ru) — Сайт А.Е. И Е.А. Умновых по высшей математике.
 
-[rubtsov.su](http://www.rubtsov.su) - Сайт А. Рубцова (ТРЯП, алгебра логики, комбинаторика, теория графов, основные алгоритмы).
+[rubtsov.su](http://www.rubtsov.su) — Сайт А. Рубцова (ТРЯП, алгебра логики, комбинаторика, теория графов, основные алгоритмы).
 
-[pyrkovaoa-fizteh.ru](https://pyrkovaoa-fizteh.ru) - Сайт Пырковой по высшей математике.
+[pyrkovaoa-fizteh.ru](https://pyrkovaoa-fizteh.ru) — Сайт Пырковой по высшей математике.
 
-[HPMNS](https://hpmns.gitbook.io/notes) - Лекции по философии.
+[HPMNS](https://hpmns.gitbook.io/notes) — Лекции по философии.
 
-[Физтех-Печать](https://printmipt.ru) - Печать на физтехе.
+[Физтех-Печать](https://printmipt.ru) — Печать на физтехе.
 
-[PrintBox](https://printbox.io) - Печать по всей России и в том числе, на Физтехе.
+[PrintBox](https://printbox.io) — Печать по всей России и в том числе, на Физтехе.
 
-[MIPT.Tech](https://mipt.tech) - Стиралки, сушилки.
+[MIPT.Tech](https://mipt.tech) — Стиралки, сушилки.
 
 ### 3.6.3. Software
 
-[Tables Generator](https://www.tablesgenerator.com) - Генератор таблиц для латеха.
+[Tables Generator](https://www.tablesgenerator.com) — Генератор таблиц для латеха.
 
-[Detexify](https://detexify.kirelabs.org/classify.html) - Веб-приложение, распознающее рукописные символы.
+[Detexify](https://detexify.kirelabs.org/classify.html) — Веб-приложение, распознающее рукописные символы.
 
-[Mathpix](https://mathpix.com) - Веб-приложение, переводящее изображения и пдф-файлы в код латеха.
+[Mathpix](https://mathpix.com) — Веб-приложение, переводящее изображения и пдф-файлы в код латеха.
 
 ## 3.7. Discord
 
-[Тесты по БЖД](https://discord.gg/vXu6SGy3qW) - Небольшая самореклама.
+[Тесты по БЖД](https://discord.gg/vXu6SGy3qW) — Небольшая самореклама.
 
 ## 3.8. Overleaf
 
-[Шаблон! теперь реально шаблон!](https://www.overleaf.com/9528985947twmtqbysvvvk) - Шаблон для лаб по физике.
+[Шаблон! теперь реально шаблон!](https://www.overleaf.com/9528985947twmtqbysvvvk) — Шаблон для лаб по физике.
 
-[148](https://www.overleaf.com/read/vwbpptjbzqrs) - Пример оформления лабы по физике.
+[148](https://www.overleaf.com/read/vwbpptjbzqrs) — Пример оформления лабы по физике.
 
 # 4. Проблемы со ссылками
 
@@ -921,21 +921,21 @@
 
 Большая часть ссылок взята из файлов с полезными ссылками на различных дисках:
 
-[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) --- [Полезное.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FvOoIGl2moM4YXYuh0Ag%2BdAvshFOVmiM%2BQL%2FEzlW0gl%2FAvlqKN9%2BxsAUnQDBen5nGeAn62gIiktaMpHuWJ3p25Q%3D%3D%3A%2F%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx&name=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx)
+[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) — [Полезное.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FvOoIGl2moM4YXYuh0Ag%2BdAvshFOVmiM%2BQL%2FEzlW0gl%2FAvlqKN9%2BxsAUnQDBen5nGeAn62gIiktaMpHuWJ3p25Q%3D%3D%3A%2F%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx&name=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx)
 
-[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) --- [Гитхабы с лабами.txt](https://docviewer.yandex.ru/view/1130000060626948/?*=tAeomGgfOXRtnAglshBmn%2BIKKb17InVybCI6InlhLWRpc2stcHVibGljOi8vdk9vSUdsMm1vTTRZWFl1aDBBZytkQXZzaEZPVm1pTStRTC9FemxXMGdsL0F2bHFLTjkreHNBVW5RREJlbjVuR2VBbjYyZ0lpa3RhTXBIdVdKM3AyNVE9PTovMSDRgdC10LzQtdGB0YLRgC%2FQm9Cw0LHQvtGA0LDRgtC%2B0YDQvdGL0LUg0L%2FQviDRhNC40LfQuNC60LUv0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsInRpdGxlIjoi0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA2MDYyNjk0OCIsInRzIjoxNzM0NzgxMDU2NzY5LCJ5dSI6IjU5MTU0NTg3NjE3MjU5MDQxNjcifQ%3D%3D)
+[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w) — [Гитхабы с лабами.txt](https://docviewer.yandex.ru/view/1130000060626948/?*=tAeomGgfOXRtnAglshBmn%2BIKKb17InVybCI6InlhLWRpc2stcHVibGljOi8vdk9vSUdsMm1vTTRZWFl1aDBBZytkQXZzaEZPVm1pTStRTC9FemxXMGdsL0F2bHFLTjkreHNBVW5RREJlbjVuR2VBbjYyZ0lpa3RhTXBIdVdKM3AyNVE9PTovMSDRgdC10LzQtdGB0YLRgC%2FQm9Cw0LHQvtGA0LDRgtC%2B0YDQvdGL0LUg0L%2FQviDRhNC40LfQuNC60LUv0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsInRpdGxlIjoi0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA2MDYyNjk0OCIsInRzIjoxNzM0NzgxMDU2NzY5LCJ5dSI6IjU5MTU0NTg3NjE3MjU5MDQxNjcifQ%3D%3D)
 
-[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) --- [Умный скат.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx&name=%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx)
+[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) — [Умный скат.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx&name=%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx)
 
-[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) --- [Ссылки.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FLaTex%2F%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&name=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&nosw=1)
+[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA) — [Ссылки.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FLaTex%2F%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&name=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&nosw=1)
 
-[Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs) --- [Полезные ссылки.docx](https://docs.google.com/document/d/1YeJw4ocdZkPEsoJb3SdOWNMgNEw3zPPh/edit)
+[Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs) — [Полезные ссылки.docx](https://docs.google.com/document/d/1YeJw4ocdZkPEsoJb3SdOWNMgNEw3zPPh/edit)
 
-[! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds) --- [Ссылки](https://docs.google.com/document/d/13oGZkgDYxTUmpCZN0HYMk8Eg72i7V7PhymTXhIU3O84/edit?tab=t.0)
+[! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds) — [Ссылки](https://docs.google.com/document/d/13oGZkgDYxTUmpCZN0HYMk8Eg72i7V7PhymTXhIU3O84/edit?tab=t.0)
 
-[Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb) --- [Полезные ссылки.rtf](https://docs.google.com/document/d/1IIvRXCHVavfdEOiNK38kF02jlgEv80ikeBgl5S674g8/edit?tab=t.0)
+[Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb) — [Полезные ссылки.rtf](https://docs.google.com/document/d/1IIvRXCHVavfdEOiNK38kF02jlgEv80ikeBgl5S674g8/edit?tab=t.0)
 
-[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) --- [полезные ссылки.docx](https://docviewer.yandex.com/view/0/?*=z5KkuttzWmJk%2FxSWydWgIG6ABxR7InVybCI6InlhLWRpc2stcHVibGljOi8vTTVjeGZ0amkwV1ZYc0tocGtGTGlZa0lwYzZvYWgyYytaNHJXeis5KzJnbVJBSGZPRm5PejhuYk16MjYyNHdxM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0L%2FQvtC70LXQt9C90YvQtSDRhNCw0LnQu9C40LrQuC%2FQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4IiwidGl0bGUiOiLQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE3MzQ3MTI4NTA4MDMsInl1IjoiNDAzNjE0ODE0MTczMzM5OTU1NiJ9)
+[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) — [полезные ссылки.docx](https://docviewer.yandex.com/view/0/?*=z5KkuttzWmJk%2FxSWydWgIG6ABxR7InVybCI6InlhLWRpc2stcHVibGljOi8vTTVjeGZ0amkwV1ZYc0tocGtGTGlZa0lwYzZvYWgyYytaNHJXeis5KzJnbVJBSGZPRm5PejhuYk16MjYyNHdxM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0L%2FQvtC70LXQt9C90YvQtSDRhNCw0LnQu9C40LrQuC%2FQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4IiwidGl0bGUiOiLQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE3MzQ3MTI4NTA4MDMsInl1IjoiNDAzNjE0ODE0MTczMzM5OTU1NiJ9)
 
 # 7. Мои контакты
 

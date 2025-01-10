@@ -36,7 +36,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -92,7 +92,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Python
@@ -151,7 +151,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Диск ФАКИ](https://disk.yandex.ru/d/SOFt0CVHCrcjhg)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -195,7 +195,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs) — Диск ФЭФМ, новая версия.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - LaTex
@@ -255,7 +255,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds) — Диск Гриши Цвика.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Алгоритмы
@@ -302,7 +302,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb) — Диск Александра Богданова.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Алгебра логики, комбинаторика и теория графов (АЛКТГ)
@@ -363,7 +363,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [MIPT](https://disk.yandex.ru/d/KM9tmEqktez2Bw) — Диск Алексея Охрименко.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая механика
@@ -393,7 +393,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Физтех](https://disk.yandex.ru/d/FkDlbMtLMTE48Q) — Диск Ани Назарчук, ФОПФ.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -429,7 +429,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA) — Диск Алексея Краснова (Вики Ханиной), ФОПФ.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Python
@@ -483,7 +483,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Маленький фопфёнок](https://drive.google.com/drive/folders/1diz0NX0Gt6dtWG5FsSQfotXPS2zhHmPl) — Диск Алексея Тюрникова, ФОПФ.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -513,7 +513,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Физтех](https://drive.google.com/drive/folders/1yzQpcIFcg_iIifawsfPyUIaabgUpr1gN) — Диск Николая Победина, ФОПФ.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -552,7 +552,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Тупой скат](https://drive.google.com/drive/folders/0B5U2D1zceCRyZ1FDaWVUUzNWVVE?resourcekey=0-f-2fDHkjeA55Rua0t8noQw)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -607,7 +607,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [М(ФТИ) всякие приколы](https://drive.google.com/drive/folders/1SYLnCQ_b1udKujWBJ2v8--BDP8LXyjwT) — Диск Юли Киселевой, ФОПФ.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -651,7 +651,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [задания 3-4 курс факи](https://disk.yandex.ru/d/H58tYUst7xexfw)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Вычислительная математика
@@ -666,7 +666,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [студенты](https://disk.yandex.ru/d/ZViQIMLaJqFUFg) — Записи и техи семинаров Скубачевского.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Теория функции комплексного переменного (ТФКП)
@@ -682,7 +682,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Physics](https://disk.yandex.ru/d/YdkpvEbcGnxXow)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Механика
@@ -695,7 +695,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [chem](https://disk.yandex.ru/d/wURLXxVDtA8Qjw)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Биохимия
@@ -706,7 +706,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [bio](https://disk.yandex.ru/d/hSRqRQNkdaqZCg)
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Физико-химические методы исследования биополимеров
@@ -722,7 +722,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [Рационалист на Физтехе](https://disk.yandex.ru/d/vYd3bXOK24eTVA) — Диск Анастасии Горшковой, ФАКТ.
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Аналитическая геометрия
@@ -763,7 +763,7 @@ README.md, но свернутые разделы развернуты по ум
 
 [матан](https://disk.yandex.ru/d/z8c3V6yXJ3vAXg) — Затеханные лекции Редкозубовых
 
-<details>
+<details open>
   <summary>Содержит материалы по предметам:</summary>
 
 - Введение в математический анализ

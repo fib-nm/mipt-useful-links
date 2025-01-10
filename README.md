@@ -900,6 +900,8 @@
 
 [MIPT.Tech](https://mipt.tech) — Стиралки, сушилки.
 
+[StudC++](https://popovfed.github.io) — Сайт-шпаргалка для изучения C++ на Физтехе.
+
 ### 3.6.3. Software
 
 [Tables Generator](https://www.tablesgenerator.com) — Генератор таблиц для латеха.

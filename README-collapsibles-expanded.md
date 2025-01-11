@@ -904,6 +904,8 @@ README.md, но свернутые разделы развернуты по ум
 
 [StudC++](https://popovfed.github.io) — Сайт-шпаргалка для изучения C++ на Физтехе.
 
+[ВикиФизтех](https://wiki.mipt.tech) — Рейтинги преподавателей.
+
 ### 3.6.3. Software
 
 [Tables Generator](https://www.tablesgenerator.com) — Генератор таблиц для латеха.

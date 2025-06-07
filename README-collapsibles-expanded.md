@@ -772,6 +772,8 @@ README.md, но свернутые разделы развернуты по ум
 - Гармонический анализ
 </details>
 
+[Итоговый тест](https://docs.google.com/document/d/1bBj1rYV-JC856DHqaIN18iPZIczyFINXn4TidHV6DIU/edit?pli=1&tab=t.0) — Гугл-документ с ответами для тестов по БЖД 2022 года.
+
 ## 3.2. ВК
 
 ### 3.2.1. Учебное
@@ -868,7 +870,9 @@ README.md, но свернутые разделы развернуты по ум
 
 ### 3.6.1. Официальные
 
-[МФТИ — Московский физико-технический институт](https://mipt.ru) — Официальный сайт МФТИ.
+[mipt.ru](https://mipt.ru) — Официальный сайт МФТИ.
+
+[old.mipt.ru](https://old.mipt.ru/) — Старый сайт МФТИ.
 
 [Методички по высшей математике](https://old.mipt.ru/education/chair/mathematics/study/methods)
 
@@ -916,7 +920,7 @@ README.md, но свернутые разделы развернуты по ум
 
 ## 3.7. Discord
 
-[Тесты по БЖД](https://discord.gg/vXu6SGy3qW) — Небольшая самореклама.
+[Тесты по БЖД](https://discord.gg/vXu6SGy3qW) — Дискорд канал с ответами для тестов по БЖД 2022 года.
 
 ## 3.8. Overleaf
 

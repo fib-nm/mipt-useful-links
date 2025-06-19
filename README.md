@@ -768,7 +768,7 @@
 - Многомерный анализ, интегралы и ряды
 - Кратные интегралы и теория поля
 - Гармонический анализ
-</details>
+</details><br>
 
 [Итоговый тест](https://docs.google.com/document/d/1bBj1rYV-JC856DHqaIN18iPZIczyFINXn4TidHV6DIU/edit?pli=1&tab=t.0) — Гугл-документ с ответами для тестов по БЖД 2022 года.
 

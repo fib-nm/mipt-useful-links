@@ -28,7 +28,6 @@ README.md, но свернутые разделы развернуты по ум
 - [4. Проблемы со ссылками](#4-проблемы-со-ссылками)
 - [5. Внесение изменений в список](#5-внесение-изменений-в-список)
 - [6. Источники](#6-источники)
-- [7. Мои контакты](#7-мои-контакты)
 
 # 3. Список
 
@@ -959,7 +958,3 @@ README.md, но свернутые разделы развернуты по ум
 [Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb): [Полезные ссылки.rtf](https://docs.google.com/document/d/1IIvRXCHVavfdEOiNK38kF02jlgEv80ikeBgl5S674g8/edit?tab=t.0)
 
 [MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA): [полезные ссылки.docx](https://docviewer.yandex.com/view/0/?*=z5KkuttzWmJk%2FxSWydWgIG6ABxR7InVybCI6InlhLWRpc2stcHVibGljOi8vTTVjeGZ0amkwV1ZYc0tocGtGTGlZa0lwYzZvYWgyYytaNHJXeis5KzJnbVJBSGZPRm5PejhuYk16MjYyNHdxM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0L%2FQvtC70LXQt9C90YvQtSDRhNCw0LnQu9C40LrQuC%2FQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4IiwidGl0bGUiOiLQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE3MzQ3MTI4NTA4MDMsInl1IjoiNDAzNjE0ODE0MTczMzM5OTU1NiJ9)
-
-# 7. Мои контакты
-
-Связаться со мной можно через вк: https://vk.com/fib_nm.

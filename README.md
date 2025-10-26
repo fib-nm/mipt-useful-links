@@ -8,6 +8,7 @@
 - [2. Содержание](#2-содержание)
 - [3. Список](#3-список)
   - [3.1. Облачные хранилища](#31-облачные-хранилища)
+    - [3.1.1. Другие списки полезных ссылок](#311-другие-списки-полезных-ссылок)
   - [3.2. ВК](#32-вк)
     - [3.2.1. Учебное](#321-учебное)
     - [3.2.2. Внеучебное](#322-внеучебное)
@@ -25,7 +26,6 @@
   - [3.8. Overleaf](#38-overleaf)
 - [4. Проблемы со ссылками](#4-проблемы-со-ссылками)
 - [5. Внесение изменений в список](#5-внесение-изменений-в-список)
-- [6. Источники](#6-источники)
 
 # 3. Список
 
@@ -773,6 +773,24 @@
 
 [лекции](https://cloud.mail.ru/public/WuGe/FjbTuj3kZ) — Презентации по физике наноразмерных объектов от А.В.Николаева, осень 2025.
 
+### 3.1.1. Другие списки полезных ссылок
+
+Диск РТ: [Полезное.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FvOoIGl2moM4YXYuh0Ag%2BdAvshFOVmiM%2BQL%2FEzlW0gl%2FAvlqKN9%2BxsAUnQDBen5nGeAn62gIiktaMpHuWJ3p25Q%3D%3D%3A%2F%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx&name=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx)
+
+Диск РТ: [Гитхабы с лабами.txt](https://docviewer.yandex.ru/view/1130000060626948/?*=tAeomGgfOXRtnAglshBmn%2BIKKb17InVybCI6InlhLWRpc2stcHVibGljOi8vdk9vSUdsMm1vTTRZWFl1aDBBZytkQXZzaEZPVm1pTStRTC9FemxXMGdsL0F2bHFLTjkreHNBVW5RREJlbjVuR2VBbjYyZ0lpa3RhTXBIdVdKM3AyNVE9PTovMSDRgdC10LzQtdGB0YLRgC%2FQm9Cw0LHQvtGA0LDRgtC%2B0YDQvdGL0LUg0L%2FQviDRhNC40LfQuNC60LUv0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsInRpdGxlIjoi0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA2MDYyNjk0OCIsInRzIjoxNzM0NzgxMDU2NzY5LCJ5dSI6IjU5MTU0NTg3NjE3MjU5MDQxNjcifQ%3D%3D)
+
+Диск БМ: [Умный скат.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx&name=%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx)
+
+Диск БМ: [Ссылки.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FLaTex%2F%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&name=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&nosw=1)
+
+Диск ФЭФМа: [Полезные ссылки.docx](https://docs.google.com/document/d/1YeJw4ocdZkPEsoJb3SdOWNMgNEw3zPPh/edit)
+
+! Disquette: [Ссылки](https://docs.google.com/document/d/13oGZkgDYxTUmpCZN0HYMk8Eg72i7V7PhymTXhIU3O84/edit?tab=t.0)
+
+Учебные материалы: [Полезные ссылки.rtf](https://docs.google.com/document/d/1IIvRXCHVavfdEOiNK38kF02jlgEv80ikeBgl5S674g8/edit?tab=t.0)
+
+MIPT by alexey krasnov: [полезные ссылки.docx](https://docviewer.yandex.com/view/0/?*=z5KkuttzWmJk%2FxSWydWgIG6ABxR7InVybCI6InlhLWRpc2stcHVibGljOi8vTTVjeGZ0amkwV1ZYc0tocGtGTGlZa0lwYzZvYWgyYytaNHJXeis5KzJnbVJBSGZPRm5PejhuYk16MjYyNHdxM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0L%2FQvtC70LXQt9C90YvQtSDRhNCw0LnQu9C40LrQuC%2FQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4IiwidGl0bGUiOiLQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE3MzQ3MTI4NTA4MDMsInl1IjoiNDAzNjE0ODE0MTczMzM5OTU1NiJ9)
+
 ## 3.2. ВК
 
 ### 3.2.1. Учебное
@@ -938,23 +956,3 @@
 <a name="questionable-name"></a>**?** Знаете полное название предмета, отмеченного вопросительным знаком — напишите issue, чтобы я мог заменить его.
 
 Для любых других изменений делайте pull request.
-
-# 6. Источники
-
-Большая часть ссылок взята из файлов с полезными ссылками на различных дисках:
-
-[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w): [Полезное.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FvOoIGl2moM4YXYuh0Ag%2BdAvshFOVmiM%2BQL%2FEzlW0gl%2FAvlqKN9%2BxsAUnQDBen5nGeAn62gIiktaMpHuWJ3p25Q%3D%3D%3A%2F%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx&name=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx)
-
-[Диск РТ](https://disk.yandex.ru/d/7gi3IcRf-x6A9w): [Гитхабы с лабами.txt](https://docviewer.yandex.ru/view/1130000060626948/?*=tAeomGgfOXRtnAglshBmn%2BIKKb17InVybCI6InlhLWRpc2stcHVibGljOi8vdk9vSUdsMm1vTTRZWFl1aDBBZytkQXZzaEZPVm1pTStRTC9FemxXMGdsL0F2bHFLTjkreHNBVW5RREJlbjVuR2VBbjYyZ0lpa3RhTXBIdVdKM3AyNVE9PTovMSDRgdC10LzQtdGB0YLRgC%2FQm9Cw0LHQvtGA0LDRgtC%2B0YDQvdGL0LUg0L%2FQviDRhNC40LfQuNC60LUv0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsInRpdGxlIjoi0JPQuNGC0YXQsNCx0Ysg0YEg0LvQsNCx0LDQvNC4LnR4dCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA2MDYyNjk0OCIsInRzIjoxNzM0NzgxMDU2NzY5LCJ5dSI6IjU5MTU0NTg3NjE3MjU5MDQxNjcifQ%3D%3D)
-
-[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA): [Умный скат.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx&name=%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BA%D0%B0%D1%82.xlsx)
-
-[Диск БМ](https://disk.yandex.ru/d/o2uVj54sQJi7yA): [Ссылки.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FH6p02PrOO%2B3jueLc5BS1%2FU4z0v94CwVtf2PofCHhV%2BA4g%2F%2BB3hSwZgQeLsjkJHEYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FLaTex%2F%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&name=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.xlsx&nosw=1)
-
-[Диск ФЭФМа](https://drive.google.com/drive/u/1/folders/159WXL66iMOzPDDBFx9lLjBtDfc1KLtCs): [Полезные ссылки.docx](https://docs.google.com/document/d/1YeJw4ocdZkPEsoJb3SdOWNMgNEw3zPPh/edit)
-
-[! Disquette](https://drive.google.com/drive/folders/1pIoZHyIIoQNkH2wFI5CjMjHWWl3tYqds): [Ссылки](https://docs.google.com/document/d/13oGZkgDYxTUmpCZN0HYMk8Eg72i7V7PhymTXhIU3O84/edit?tab=t.0)
-
-[Учебные материалы](https://drive.google.com/drive/folders/1RUegjqhPkQsCEeWs0yzThiTsvHQ4g-tb): [Полезные ссылки.rtf](https://docs.google.com/document/d/1IIvRXCHVavfdEOiNK38kF02jlgEv80ikeBgl5S674g8/edit?tab=t.0)
-
-[MIPT by alexey krasnov](https://disk.yandex.com/d/OKF8sL_f8K3oXA): [полезные ссылки.docx](https://docviewer.yandex.com/view/0/?*=z5KkuttzWmJk%2FxSWydWgIG6ABxR7InVybCI6InlhLWRpc2stcHVibGljOi8vTTVjeGZ0amkwV1ZYc0tocGtGTGlZa0lwYzZvYWgyYytaNHJXeis5KzJnbVJBSGZPRm5PejhuYk16MjYyNHdxM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0L%2FQvtC70LXQt9C90YvQtSDRhNCw0LnQu9C40LrQuC%2FQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4IiwidGl0bGUiOiLQv9C%2B0LvQtdC30L3Ri9C1INGB0YHRi9C70LrQuC5kb2N4Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE3MzQ3MTI4NTA4MDMsInl1IjoiNDAzNjE0ODE0MTczMzM5OTU1NiJ9)

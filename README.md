@@ -771,8 +771,6 @@
 
 [Итоговый тест](https://docs.google.com/document/d/1bBj1rYV-JC856DHqaIN18iPZIczyFINXn4TidHV6DIU/edit?pli=1&tab=t.0) — Гугл-документ с ответами для тестов по БЖД 2022 года.
 
-[лекции](https://cloud.mail.ru/public/WuGe/FjbTuj3kZ) — Презентации по физике наноразмерных объектов от А.В.Николаева, осень 2025.
-
 ### 3.1.1. Другие списки полезных ссылок
 
 Диск РТ: [Полезное.xlsx](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FvOoIGl2moM4YXYuh0Ag%2BdAvshFOVmiM%2BQL%2FEzlW0gl%2FAvlqKN9%2BxsAUnQDBen5nGeAn62gIiktaMpHuWJ3p25Q%3D%3D%3A%2F%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx&name=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5.xlsx)

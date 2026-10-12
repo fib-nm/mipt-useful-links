@@ -10,8 +10,6 @@
   - [3.1. Облачные хранилища](#31-облачные-хранилища)
     - [3.1.1. Другие списки полезных ссылок](#311-другие-списки-полезных-ссылок)
   - [3.2. ВК](#32-вк)
-    - [3.2.1. Учебное](#321-учебное)
-    - [3.2.2. Внеучебное](#322-внеучебное)
   - [3.3. Телеграм](#33-телеграм)
   - [3.4. Github](#34-github)
     - [3.4.1. Лабы](#341-лабы)
@@ -791,8 +789,6 @@ MIPT by alexey krasnov: [полезные ссылки.docx](https://docviewer.y
 
 ## 3.2. ВК
 
-### 3.2.1. Учебное
-
 [ТПФ](https://vk.com/t_p_phystech)
 
 [BOTAY](https://vk.com/botay_phystech)
@@ -808,10 +804,6 @@ MIPT by alexey krasnov: [полезные ссылки.docx](https://docviewer.y
 [CoScience](https://vk.com/co_science)
 
 [Клуб Теха Лекций](https://vk.com/mipt_ltc)
-
-### 3.2.2. Внеучебное
-
-[Физтех.Confessions](https://vk.com/phystech.confessions)
 
 ## 3.3. Телеграм
 

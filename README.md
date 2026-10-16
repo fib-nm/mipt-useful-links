@@ -815,6 +815,8 @@ MIPT by alexey krasnov: [полезные ссылки.docx](https://docviewer.y
 
 [EK-Конспекты](https://t.me/ek_summary) — Тг-канал с конспектами для ФПМИ.
 
+[Phystech.Confessions](https://t.me/phystech_confessions)
+
 ## 3.4. Github
 
 ### 3.4.1. Лабы

@@ -835,6 +835,8 @@ MIPT by alexey krasnov: [полезные ссылки.docx](https://docviewer.y
 
 [vladyur/PhysLabs](https://github.com/vladyur/PhysLabs) — Затеханные за время обучения на ФУПМ МФТИ лабы по общей физике.
 
+[ithilwing/MIPT-LABS](https://github.com/ithilwing/MIPT-LABS) — Reports on physics labotatory works (MIPT 1st-3rd years).
+
 ### 3.4.2. Лекции и методички
 
 [daniild71r/lectures_tex_club](https://github.com/daniild71r/lectures_tex_club) — Репозиторий для конспектов Клуба Теха Лекций.
